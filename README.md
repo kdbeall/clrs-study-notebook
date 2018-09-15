@@ -43,4 +43,4 @@ Then start jupyter notebook.
 
 You should see something like this.
 
-![]("https://user-images.githubusercontent.com/10102694/45586899-e7b3eb00-b8cb-11e8-8197-024f57dd930f.png")
+![Error: image failed to load](https://user-images.githubusercontent.com/10102694/45586899-e7b3eb00-b8cb-11e8-8197-024f57dd930f.png)
