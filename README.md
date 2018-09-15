@@ -1,8 +1,8 @@
 # clrs-study-notebook
-This is a collections of notebooks to accompany the book [Introduction to Algorithms](https://en.wikipedia.org/wiki/Introduction_to_Algorithms). Feel free to make pull requests to add additional notes as you see fit.
+This is a collections of jupyter notebooks to accompany the book [Introduction to Algorithms](https://en.wikipedia.org/wiki/Introduction_to_Algorithms). Feel free to make pull requests to add additional notes as you see fit.
 
 ## Installation Steps
-You'll need Python 3.x and pip to install jupyter notebook.
+You'll need Python 3.x and pip to install jupyter.
 
 ### MacOS
 You can install python3 using [brew](https://brew.sh). Installing python3 with brew automatically installs pip for you as well.
