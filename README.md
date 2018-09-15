@@ -38,4 +38,5 @@ First clone this repository.
 Next, cd into the cloned repository using your terminal.
 Then, run
 
-   jupyter notebook
+    jupyter notebook
+
