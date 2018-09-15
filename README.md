@@ -1,4 +1,5 @@
 # clrs-study-notebook
+This is a collections of notebooks to accompany the book [Introduction to Algorithms](https://en.wikipedia.org/wiki/Introduction_to_Algorithms). Feel free to make pull requests to add additional notes as you see fit.
 
 ## Installation Steps
 You'll need Python 3.x and pip to install jupyter notebook.
@@ -36,7 +37,10 @@ Lastly install jupyter.
 I'll assume you've already installed jupyter. Here's how to use the CLRS study notebooks.
 First clone this repository.
 Next, cd into the cloned repository using your terminal.
-Then, run
+Then start jupyter notebook.
 
     jupyter notebook
 
+You should see something like this.
+
+![]("https://user-images.githubusercontent.com/10102694/45586899-e7b3eb00-b8cb-11e8-8197-024f57dd930f.png")
