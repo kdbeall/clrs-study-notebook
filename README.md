@@ -2,22 +2,22 @@
 This is a collections of jupyter notebooks to accompany the book [Introduction to Algorithms](https://en.wikipedia.org/wiki/Introduction_to_Algorithms). Feel free to make pull requests to add additional notes as you see fit.
 
 ## Installation Steps
-You'll need Python 3.x and pip to install jupyter.
+You'll need Python 3.x and pip to install [jupyter](https://jupyter.readthedocs.io/en/latest/install.html).
 
 ### MacOS
-You can install python3 using [brew](https://brew.sh). Installing python3 with brew automatically installs pip for you as well.
+You can install python3 using [brew](https://brew.sh). Installing python3 with brew automatically installs pip for you as well. If you already have python3 installed, you can skip this step.
 
     brew install python
     
-After installing python using brew, install jupyter as follows.
+After installing python3 using brew, install jupyter as follows.
 
     python3 -m pip install --upgrade pip
     python3 -m pip install jupyter
 
 ### Linux
-Ubuntu ships with Python already installed. However, you still need to install pip.
+Ubuntu ships with python3 already installed. However, you still need to install pip.
 
-First, make sure your python is the most recent version.
+First, make sure your python3 is the most recent version.
 
     sudo apt-get update
     sudo apt-get -y upgrade
